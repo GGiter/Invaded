@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (upnpc-static.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  listdevices.cpp
+  minissdpc.cpp
+c:\users\piotr\desktop\miniupnp-master2\miniupnpc\minissdpc.cpp(546): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: see declaration of 'inet_addr'
+  miniupnpc.cpp
+  upnpcommands.cpp
+  upnpdev.cpp
+  upnperrors.cpp
+  miniupnpc.vcxproj -> C:\Users\Piotr\Desktop\miniupnp-master2\miniupnpc\msvc\x64\Release\miniupnpc.lib

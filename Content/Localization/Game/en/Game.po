@@ -1,0 +1,1471 @@
+﻿# Game English translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2019-09-24 16:39\n"
+"PO-Revision-Date: 2019-09-24 16:39\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	001C58074AB1CE0501C8B4B2321BF97E
+#. SourceLocation:	/Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.BattleTypeComboBox.ToolTipText
+#: /Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.BattleTypeComboBox.ToolTipText
+msgctxt ",001C58074AB1CE0501C8B4B2321BF97E"
+msgid "Battle type"
+msgstr "Battle type"
+
+#. Key:	0027E63E45A4DFE8633477B5BA9DD7E5
+#. SourceLocation:	/Game/UI/Lobby/UI_Singleplayer.UI_Singleplayer_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/Lobby/UI_Singleplayer.UI_Singleplayer_C:WidgetTree.TextBlock_3.Text
+msgctxt ",0027E63E45A4DFE8633477B5BA9DD7E5"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	004EB3D442621CF308E4878D6CA2F8CD
+#. SourceLocation:	/Game/UI/UI_AlphaWarning.UI_AlphaWarning_C:WidgetTree.Text.Text
+#: /Game/UI/UI_AlphaWarning.UI_AlphaWarning_C:WidgetTree.Text.Text
+msgctxt ",004EB3D442621CF308E4878D6CA2F8CD"
+msgid "Blank Text"
+msgstr "Blank Text"
+
+#. Key:	01198B8A44E2C53F897807BA6886FFBC
+#. SourceLocation:	/Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.Cards.Text
+#: /Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.Cards.Text
+msgctxt ",01198B8A44E2C53F897807BA6886FFBC"
+msgid "Cards"
+msgstr "Cards"
+
+#. Key:	033E153F419D7BCE727162A38A6652F8
+#. SourceLocation:	/Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+#: /Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+msgctxt ",033E153F419D7BCE727162A38A6652F8"
+msgid "Time left {x}"
+msgstr "Time left {x}"
+
+#. Key:	03ADFBF34F82BB64F9C81DB227D5D4C7
+#. SourceLocation:	/Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.TextBlock_440.Text
+#: /Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.TextBlock_440.Text
+msgctxt ",03ADFBF34F82BB64F9C81DB227D5D4C7"
+msgid "Mute"
+msgstr "Mute"
+
+#. Key:	0594B29E4D36619BB60DA085B78E4101
+#. SourceLocation:	/Game/UI/Shared/UI_KeyRemappingWindow.Default__UI_KeyRemappingWindow_C.InputNamesAndFormattedNamesMap(3 - Value).InputNamesAndFormattedNamesMap_Value
+#: /Game/UI/Shared/UI_KeyRemappingWindow.Default__UI_KeyRemappingWindow_C.InputNamesAndFormattedNamesMap(3 - Value).InputNamesAndFormattedNamesMap_Value
+msgctxt ",0594B29E4D36619BB60DA085B78E4101"
+msgid "Open Pause"
+msgstr "Open Pause"
+
+#. Key:	05B46FA140A7C4E0E13F89B7DA293C6A
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList_C_8.ButtonNames(0).ButtonNames
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList_C_8.ButtonNames(0).ButtonNames
+msgctxt ",05B46FA140A7C4E0E13F89B7DA293C6A"
+msgid "Borderless"
+msgstr "Borderless"
+
+#. Key:	074C34E549A1FA6291FF3CB0379948D7
+#. SourceLocation:	/Game/UI/UI_GameClick.Default__UI_GameClick_C.TargetMap(5).TargetMap
+#: /Game/UI/UI_GameClick.Default__UI_GameClick_C.TargetMap(5).TargetMap
+msgctxt ",074C34E549A1FA6291FF3CB0379948D7"
+msgid "Head"
+msgstr "Head"
+
+#. Key:	07A55B6D410E1E441ECA62A11C081546
+#. SourceLocation:	/Game/UI/Core/StateMachine/UI_PauseStateMachine.UI_PauseStateMachine_C:WidgetTree.PauseTextBlock.Text
+#: /Game/UI/Core/StateMachine/UI_PauseStateMachine.UI_PauseStateMachine_C:WidgetTree.PauseTextBlock.Text
+msgctxt ",07A55B6D410E1E441ECA62A11C081546"
+msgid "Pause"
+msgstr "Pause"
+
+#. Key:	09E71DAF4ABA5ACAC243CE80AB170F91
+#. SourceLocation:	/Game/UI/Chat/UI_ChatWindow.UI_ChatWindow_C:WidgetTree.TextInput.HintText
+#: /Game/UI/Chat/UI_ChatWindow.UI_ChatWindow_C:WidgetTree.TextInput.HintText
+msgctxt ",09E71DAF4ABA5ACAC243CE80AB170F91"
+msgid "Press Enter "
+msgstr "Press Enter "
+
+#. Key:	0D2F67204878CF6F54CB3B88B00261C3
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_3.Text
+msgctxt ",0D2F67204878CF6F54CB3B88B00261C3"
+msgid "Post Processing"
+msgstr "Post Processing"
+
+#. Key:	0D2F838C48BE9ACB4352AAB845C39A60
+#. SourceLocation:	/Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+#: /Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+msgctxt ",0D2F838C48BE9ACB4352AAB845C39A60"
+msgid "Health {x}"
+msgstr "Health {x}"
+
+#. Key:	0E6746BA4B5178D9C7EFF5828DBAB419
+#. SourceLocation:	/Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_392.Text
+#: /Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_392.Text
+msgctxt ",0E6746BA4B5178D9C7EFF5828DBAB419"
+msgid "Ping"
+msgstr "Ping"
+
+#. Key:	0EEEEEA7479AC372AB0075818B26ECE9
+#. SourceLocation:	/Game/UI/Core/UI_MainHUD.UI_MainHUD_C:WidgetTree.TextBlock_63.Text
+#: /Game/UI/Core/UI_MainHUD.UI_MainHUD_C:WidgetTree.TextBlock_63.Text
+msgctxt ",0EEEEEA7479AC372AB0075818B26ECE9"
+msgid "Quit"
+msgstr "Quit"
+
+#. Key:	0F2F603142F17C04EA9EC5A914D1FBAD
+#. SourceLocation:	/Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.TextBlock_231.Text
+#: /Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.TextBlock_231.Text
+msgctxt ",0F2F603142F17C04EA9EC5A914D1FBAD"
+msgid "Master"
+msgstr "Master"
+
+#. Key:	107983214AC6656122E908B27E797377
+#. SourceLocation:	/Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_0.Text
+msgctxt ",107983214AC6656122E908B27E797377"
+msgid "Player Mesh"
+msgstr "Player Mesh"
+
+#. Key:	11D7DD144396A879BE2C2E9F2B200587
+#. SourceLocation:	/Game/UI/Lobby/UI_Singleplayer.UI_Singleplayer_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/Lobby/UI_Singleplayer.UI_Singleplayer_C:WidgetTree.TextBlock_2.Text
+msgctxt ",11D7DD144396A879BE2C2E9F2B200587"
+msgid "Options"
+msgstr "Options"
+
+#. Key:	127E2E1B4A6F5C02C2F18FB5405B376B
+#. SourceLocation:	/Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+#: /Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+msgctxt ",127E2E1B4A6F5C02C2F18FB5405B376B"
+msgid "Player Won"
+msgstr "Player Won"
+
+#. Key:	13A40B6E467A8647EB5D4583CD0A5497
+#. SourceLocation:	/Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_388.Text
+#: /Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_388.Text
+msgctxt ",13A40B6E467A8647EB5D4583CD0A5497"
+msgid "Level Selection"
+msgstr "Level Selection"
+
+#. Key:	14B92B5C485539420FD7A3B017491159
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList_C_7.ButtonNames(0).ButtonNames
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList_C_7.ButtonNames(0).ButtonNames
+msgctxt ",14B92B5C485539420FD7A3B017491159"
+msgid "Disabled"
+msgstr "Disabled"
+
+#. Key:	15703EAF4D0CBA34156F19B6E097C1E5
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_2.Text
+msgctxt ",15703EAF4D0CBA34156F19B6E097C1E5"
+msgid "Anit-Aliasing"
+msgstr "Anit-Aliasing"
+
+#. Key:	16833DDD43DE6EA5CA1306AD36636ABE
+#. SourceLocation:	/Game/UI/Lobby/UI_ServerPassword.UI_ServerPassword_C:WidgetTree.TextBlock_114.Text
+#: /Game/UI/Lobby/UI_ServerPassword.UI_ServerPassword_C:WidgetTree.TextBlock_114.Text
+msgctxt ",16833DDD43DE6EA5CA1306AD36636ABE"
+msgid "Enter"
+msgstr "Enter"
+
+#. Key:	173853C543EDDC959D66CCAF1928D380
+#. SourceLocation:	/Game/UI/TEst.TEst_C:WidgetTree.TextBlock_63.Text
+#: /Game/UI/TEst.TEst_C:WidgetTree.TextBlock_63.Text
+msgctxt ",173853C543EDDC959D66CCAF1928D380"
+msgid "Quit"
+msgstr "Quit"
+
+#. Key:	1B6765044D64FFC927CDA7AF2A3CE816
+#. SourceLocation:	/Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_2.Text
+msgctxt ",1B6765044D64FFC927CDA7AF2A3CE816"
+msgid "Flags"
+msgstr "Flags"
+
+#. Key:	1BEEECF642B5F48533960F9E64083CB9
+#. SourceLocation:	/Game/UI/Lobby/UI_Host.UI_Host_C:WidgetTree.TextBlock_94.Text
+#: /Game/UI/Lobby/UI_Host.UI_Host_C:WidgetTree.TextBlock_94.Text
+msgctxt ",1BEEECF642B5F48533960F9E64083CB9"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	1C13612444007A0FDDC9CF9A1A400143
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_9.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_9.Text
+msgctxt ",1C13612444007A0FDDC9CF9A1A400143"
+msgid "VSync"
+msgstr "VSync"
+
+#. Key:	1D64B5914B7CFE16D4983F9B57ADC876
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_78.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_78.Text
+msgctxt ",1D64B5914B7CFE16D4983F9B57ADC876"
+msgid "Resolution"
+msgstr "Resolution"
+
+#. Key:	219D02FA4A91E6C3C42206B40AA5533A
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsPanel.UI_SettingsPanel_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Shared/UI_SettingsPanel.UI_SettingsPanel_C:WidgetTree.TextBlock_0.Text
+msgctxt ",219D02FA4A91E6C3C42206B40AA5533A"
+msgid "Graphic"
+msgstr "Graphic"
+
+#. Key:	21C314FF4DFE4AA77A2D54AC5BE2B181
+#. SourceLocation:	/Game/UI/Core/UI_Game.UI_Game_C:ExecuteUbergraph_UI_Game [Script Bytecode]
+#: /Game/UI/Core/UI_Game.UI_Game_C:ExecuteUbergraph_UI_Game [Script Bytecode]
+msgctxt ",21C314FF4DFE4AA77A2D54AC5BE2B181"
+msgid "CurrentTurn {x}"
+msgstr "CurrentTurn {x}"
+
+#. Key:	25ABDBC04F4A8761A41E2BB610FB3A41
+#. SourceLocation:	/Game/UI/UI_BugReporter.UI_BugReporter_C:WidgetTree.TextBlock_501.Text
+#: /Game/UI/UI_BugReporter.UI_BugReporter_C:WidgetTree.TextBlock_501.Text
+msgctxt ",25ABDBC04F4A8761A41E2BB610FB3A41"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	269DF803473F66D3A9AA2DBDA396B5FC
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_440.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_440.Text
+msgctxt ",269DF803473F66D3A9AA2DBDA396B5FC"
+msgid "Mute"
+msgstr "Mute"
+
+#. Key:	27390D2C44D175FA8AA8A5972B1E98D8
+#. SourceLocation:	/Game/UI/Core/Cards/UI_PlayerDeck.UI_PlayerDeck_C:WidgetTree.TextBlock_246.Text
+#: /Game/UI/Core/Cards/UI_PlayerDeck.UI_PlayerDeck_C:WidgetTree.TextBlock_246.Text
+msgctxt ",27390D2C44D175FA8AA8A5972B1E98D8"
+msgid "Description"
+msgstr "Description"
+
+#. Key:	28E856074B6CACAFF7FF2AAEC75EF0D6
+#. SourceLocation:	/Game/UI/Lobby/UI_ServerPassword.UI_ServerPassword_C:ExecuteUbergraph_UI_ServerPassword [Script Bytecode]
+#: /Game/UI/Lobby/UI_ServerPassword.UI_ServerPassword_C:ExecuteUbergraph_UI_ServerPassword [Script Bytecode]
+msgctxt ",28E856074B6CACAFF7FF2AAEC75EF0D6"
+msgid "Wrong password"
+msgstr "Wrong password"
+
+#. Key:	2CC5539A4F5889145B175C8B504E6D22
+#. SourceLocation:	/Game/UI/TEst.TEst_C:WidgetTree.TextBlock_62.Text
+#: /Game/UI/TEst.TEst_C:WidgetTree.TextBlock_62.Text
+msgctxt ",2CC5539A4F5889145B175C8B504E6D22"
+msgid "Menu"
+msgstr "Menu"
+
+#. Key:	2D83AAA94DDF51BF9E357280A64AFD88
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_10.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_10.Text
+msgctxt ",2D83AAA94DDF51BF9E357280A64AFD88"
+msgid "WindowMode"
+msgstr "WindowMode"
+
+#. Key:	2FBCD4D64DFC422FC20459B10AD6D2A1
+#. SourceLocation:	/Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_4.Text
+msgctxt ",2FBCD4D64DFC422FC20459B10AD6D2A1"
+msgid "Come check out our Facebook Page!"
+msgstr "Come check out our Facebook Page!"
+
+#. Key:	2FE7A3FF462CB0361C7FA68F160BD7CC
+#. SourceLocation:	/Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.MusicSlider1.ToolTipText
+#: /Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.MusicSlider1.ToolTipText
+msgctxt ",2FE7A3FF462CB0361C7FA68F160BD7CC"
+msgid "15"
+msgstr "15"
+
+#. Key:	30110F114552158BA2E963AA4152E9BD
+#. SourceLocation:	/Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_102.Text
+#: /Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_102.Text
+msgctxt ",30110F114552158BA2E963AA4152E9BD"
+msgid "Find"
+msgstr "Find"
+
+#. Key:	320F33B14E3945978DA9A9A0C9EC16CA
+#. SourceLocation:	/Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_177.Text
+#: /Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_177.Text
+msgctxt ",320F33B14E3945978DA9A9A0C9EC16CA"
+msgid "PlayerList"
+msgstr "PlayerList"
+
+#. Key:	325C122344240F4492F04EBD74EA5C08
+#. SourceLocation:	/Game/UI/Lobby/UI_SteamFriends.UI_SteamFriends_C:WidgetTree.TextBlock_145.Text
+#: /Game/UI/Lobby/UI_SteamFriends.UI_SteamFriends_C:WidgetTree.TextBlock_145.Text
+msgctxt ",325C122344240F4492F04EBD74EA5C08"
+msgid "Add"
+msgstr "Add"
+
+#. Key:	3289E6784D9C025A038D84912ACB061A
+#. SourceLocation:	/Game/UI/Lobby/UI_Host.UI_Host_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/Lobby/UI_Host.UI_Host_C:WidgetTree.TextBlock_1.Text
+msgctxt ",3289E6784D9C025A038D84912ACB061A"
+msgid "Password"
+msgstr "Password"
+
+#. Key:	344AFB164129BF2F127C51959FF3434B
+#. SourceLocation:	/Game/UI/Core/UI_SpectatorGame.UI_SpectatorGame_C:ExecuteUbergraph_UI_SpectatorGame [Script Bytecode]
+#: /Game/UI/Core/UI_SpectatorGame.UI_SpectatorGame_C:ExecuteUbergraph_UI_SpectatorGame [Script Bytecode]
+msgctxt ",344AFB164129BF2F127C51959FF3434B"
+msgid "Player: {x}"
+msgstr "Player: {x}"
+
+#. Key:	347AD73043F4B61EDDF1759F43A5C216
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_219.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_219.Text
+msgctxt ",347AD73043F4B61EDDF1759F43A5C216"
+msgid "Displayed Name"
+msgstr "Displayed Name"
+
+#. Key:	36D2D4C54CE13A0E65F4B3977C3AE7DC
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsPanel.UI_SettingsPanel_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/Shared/UI_SettingsPanel.UI_SettingsPanel_C:WidgetTree.TextBlock_2.Text
+msgctxt ",36D2D4C54CE13A0E65F4B3977C3AE7DC"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	3751C87145AF13B2BE26DAB6EA559DEA
+#. SourceLocation:	/Game/UI/Core/UI_Fight.UI_Fight_C:ExecuteUbergraph_UI_Fight [Script Bytecode]
+#: /Game/UI/Core/UI_Fight.UI_Fight_C:ExecuteUbergraph_UI_Fight [Script Bytecode]
+msgctxt ",3751C87145AF13B2BE26DAB6EA559DEA"
+msgid "Player Won"
+msgstr "Player Won"
+
+#. Key:	38571AA44ED9D2309F8A47A4E2052FFC
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_231.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_231.Text
+msgctxt ",38571AA44ED9D2309F8A47A4E2052FFC"
+msgid "Master"
+msgstr "Master"
+
+#. Key:	3B840B6C42DACE44886A0AAADE859DCA
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_7.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_7.Text
+msgctxt ",3B840B6C42DACE44886A0AAADE859DCA"
+msgid "Foliage"
+msgstr "Foliage"
+
+#. Key:	3BE8617D482A59332AC0ACB335BF0157
+#. SourceLocation:	/Game/UI/UI_GameClick.UI_GameClick_C:ExecuteUbergraph_UI_GameClick [Script Bytecode]
+#: /Game/UI/UI_GameClick.UI_GameClick_C:ExecuteUbergraph_UI_GameClick [Script Bytecode]
+msgctxt ",3BE8617D482A59332AC0ACB335BF0157"
+msgid "Draw"
+msgstr "Draw"
+
+#. Key:	3D238F83463BFF114F3487BDF7E52CC3
+#. SourceLocation:	/Game/UI/Core/UI_MainHUD.UI_MainHUD_C:WidgetTree.TextBlock_62.Text
+#: /Game/UI/Core/UI_MainHUD.UI_MainHUD_C:WidgetTree.TextBlock_62.Text
+msgctxt ",3D238F83463BFF114F3487BDF7E52CC3"
+msgid "Menu"
+msgstr "Menu"
+
+#. Key:	3DD7D8F447CDA772376FC3A67E16C530
+#. SourceLocation:	/Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+#: /Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+msgctxt ",3DD7D8F447CDA772376FC3A67E16C530"
+msgid "Player Lost"
+msgstr "Player Lost"
+
+#. Key:	3E3F48394F6BE12B1BFDD7AEA6E28C9D
+#. SourceLocation:	/Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_6.Text
+#: /Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_6.Text
+msgctxt ",3E3F48394F6BE12B1BFDD7AEA6E28C9D"
+msgid "Or you can check out our Discord!"
+msgstr "Or you can check out our Discord!"
+
+#. Key:	3E4B7BBE4C9D53D3F5AC6CB902324A90
+#. SourceLocation:	/Game/UI/UI_GameClick.UI_GameClick_C:ExecuteUbergraph_UI_GameClick [Script Bytecode]
+#: /Game/UI/UI_GameClick.UI_GameClick_C:ExecuteUbergraph_UI_GameClick [Script Bytecode]
+msgctxt ",3E4B7BBE4C9D53D3F5AC6CB902324A90"
+msgid "Player Lost"
+msgstr "Player Lost"
+
+#. Key:	3F736DBE439BC22CD1B72DB960EB2284
+#. SourceLocation:	/Game/UI/Core/UI_MainHUD.UI_MainHUD_C:WidgetTree.RemainingMoves.Text
+#: /Game/UI/Core/UI_MainHUD.UI_MainHUD_C:WidgetTree.RemainingMoves.Text
+msgctxt ",3F736DBE439BC22CD1B72DB960EB2284"
+msgid "Text Block"
+msgstr "Text Block"
+
+#. Key:	413A82884438E96A93673D91AFC5CE52
+#. SourceLocation:	/Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_158.Text
+#: /Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_158.Text
+msgctxt ",413A82884438E96A93673D91AFC5CE52"
+msgid "Weapons"
+msgstr "Weapons"
+
+#. Key:	43001B53467C6AA15D68EE8D5CFF6307
+#. SourceLocation:	/Game/UI/Lobby/UI_Lobby.UI_Lobby_C:ExecuteUbergraph_UI_Lobby [Script Bytecode]
+#: /Game/UI/Lobby/UI_Lobby.UI_Lobby_C:ExecuteUbergraph_UI_Lobby [Script Bytecode]
+msgctxt ",43001B53467C6AA15D68EE8D5CFF6307"
+msgid "Waiting for players"
+msgstr "Waiting for players"
+
+#. Key:	43621B9E4551EB0FCC202BA6418C865A
+#. SourceLocation:	/Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_0.Text
+msgctxt ",43621B9E4551EB0FCC202BA6418C865A"
+msgid "Customization"
+msgstr "Customization"
+
+#. Key:	4A7F92A24FA6E841DCCA07A6765A7A94
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.DownScaleButton.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.DownScaleButton.Text
+msgctxt ",4A7F92A24FA6E841DCCA07A6765A7A94"
+msgid "1,0"
+msgstr "1,0"
+
+#. Key:	4A93E47B4895EED3BA0055A8F8CA71DA
+#. SourceLocation:	/Game/UI/Core/UI_MainHUD.UI_MainHUD_C:WidgetTree.TextBlock_92.Text
+#: /Game/UI/Core/UI_MainHUD.UI_MainHUD_C:WidgetTree.TextBlock_92.Text
+msgctxt ",4A93E47B4895EED3BA0055A8F8CA71DA"
+msgid "End turn"
+msgstr "End turn"
+
+#. Key:	4B92ADF8478C0AEC4EC8519E9B027FBC
+#. SourceLocation:	/Game/UI/Core/UI_MainHUD.UI_MainHUD_C:ExecuteUbergraph_UI_MainHUD [Script Bytecode]
+#: /Game/UI/Core/UI_MainHUD.UI_MainHUD_C:ExecuteUbergraph_UI_MainHUD [Script Bytecode]
+msgctxt ",4B92ADF8478C0AEC4EC8519E9B027FBC"
+msgid "Moves: {x}"
+msgstr "Moves: {x}"
+
+#. Key:	4CD22A334C3FC6033588F6A7BD3A22D6
+#. SourceLocation:	/Game/UI/TEst.TEst_C:WidgetTree.RemainingMoves.Text
+#: /Game/UI/TEst.TEst_C:WidgetTree.RemainingMoves.Text
+msgctxt ",4CD22A334C3FC6033588F6A7BD3A22D6"
+msgid "Text Block"
+msgstr "Text Block"
+
+#. Key:	507BE9B748DE65CD8C7F0F919DF87BC4
+#. SourceLocation:	/Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_125.Text
+#: /Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_125.Text
+msgctxt ",507BE9B748DE65CD8C7F0F919DF87BC4"
+msgid "Server name"
+msgstr "Server name"
+
+#. Key:	526F529B4C680567B9ECD192FB4F2ED2
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_71.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_71.Text
+msgctxt ",526F529B4C680567B9ECD192FB4F2ED2"
+msgid "Color 2"
+msgstr "Color 2"
+
+#. Key:	5275DF174FEADE1B34B0149C19F19700
+#. SourceLocation:	/Game/UI/Core/UI_PauseMenu.UI_PauseMenu_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Core/UI_PauseMenu.UI_PauseMenu_C:WidgetTree.TextBlock_0.Text
+msgctxt ",5275DF174FEADE1B34B0149C19F19700"
+msgid "Resume"
+msgstr "Resume"
+
+#. Key:	550802E04E0A89DE5C43AB960247D500
+#. SourceLocation:	/Game/UI/Lobby/UI_Multiplayer.UI_Multiplayer_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/Lobby/UI_Multiplayer.UI_Multiplayer_C:WidgetTree.TextBlock_3.Text
+msgctxt ",550802E04E0A89DE5C43AB960247D500"
+msgid "Quick Game"
+msgstr "Quick Game"
+
+#. Key:	555D289D41667FD551319CA2FDB7779D
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_1.Text
+msgctxt ",555D289D41667FD551319CA2FDB7779D"
+msgid "Apply"
+msgstr "Apply"
+
+#. Key:	556DA89A4BB5C1741439CF91473E28D2
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_522.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_522.Text
+msgctxt ",556DA89A4BB5C1741439CF91473E28D2"
+msgid "Profile"
+msgstr "Profile"
+
+#. Key:	5709088643344D87A76D20A05E5A285E
+#. SourceLocation:	/Game/UI/UI_GameStart.UI_GameStart_C:WidgetTree.TextBlock_127.Text
+#: /Game/UI/UI_GameStart.UI_GameStart_C:WidgetTree.TextBlock_127.Text
+msgctxt ",5709088643344D87A76D20A05E5A285E"
+msgid "Roll"
+msgstr "Roll"
+
+#. Key:	57B841B44E59C3C68505B791EAFC0C2B
+#. SourceLocation:	/Game/UI/Lobby/UI_YesNoBox.UI_YesNoBox_C:WidgetTree.TextBlock_105.Text
+#: /Game/UI/Lobby/UI_YesNoBox.UI_YesNoBox_C:WidgetTree.TextBlock_105.Text
+msgctxt ",57B841B44E59C3C68505B791EAFC0C2B"
+msgid "Yes"
+msgstr "Yes"
+
+#. Key:	57DCE9E1438ABD9FE535F68F8F0C64E6
+#. SourceLocation:	/Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:WidgetTree.TextBlock_124.Text
+#: /Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:WidgetTree.TextBlock_124.Text
+msgctxt ",57DCE9E1438ABD9FE535F68F8F0C64E6"
+msgid "Select"
+msgstr "Select"
+
+#. Key:	587AF1B440AB09A851CB2381457D0C1A
+#. SourceLocation:	/Game/UI/UI_GameClick.Default__UI_GameClick_C.TargetMap(1).TargetMap
+#: /Game/UI/UI_GameClick.Default__UI_GameClick_C.TargetMap(1).TargetMap
+msgctxt ",587AF1B440AB09A851CB2381457D0C1A"
+msgid "Right Leg"
+msgstr "Right Leg"
+
+#. Key:	58E2D791425637DFCAA8168936D595CC
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_0.Text
+msgctxt ",58E2D791425637DFCAA8168936D595CC"
+msgid "View Distance"
+msgstr "View Distance"
+
+#. Key:	5BDA4D8146F173E887A991A6418C28B9
+#. SourceLocation:	/Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:ExecuteUbergraph_UI_LevelSelection [Script Bytecode]
+#: /Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:ExecuteUbergraph_UI_LevelSelection [Script Bytecode]
+msgctxt ",5BDA4D8146F173E887A991A6418C28B9"
+msgid "Grid Selection"
+msgstr "Grid Selection"
+
+#. Key:	5C4B762C43865022CC0D62A299F0F9A0
+#. SourceLocation:	/Game/UI/Lobby/UI_Server.UI_Server_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/Lobby/UI_Server.UI_Server_C:WidgetTree.TextBlock_2.Text
+msgctxt ",5C4B762C43865022CC0D62A299F0F9A0"
+msgid "Join"
+msgstr "Join"
+
+#. Key:	5D53E54E4F0DB7F709DBA2A2A8C3B933
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.MusicSlider1.ToolTipText
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.MusicSlider1.ToolTipText
+msgctxt ",5D53E54E4F0DB7F709DBA2A2A8C3B933"
+msgid "15"
+msgstr "15"
+
+#. Key:	5D7AFE764906450DAE3EE5ACDC490030
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_524.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_524.Text
+msgctxt ",5D7AFE764906450DAE3EE5ACDC490030"
+msgid "Audio"
+msgstr "Audio"
+
+#. Key:	5EF4141A42F02E723EAAFDB6D60F3A2D
+#. SourceLocation:	/Game/UI/UI_GameClick.Default__UI_GameClick_C.TargetMap(4).TargetMap
+#: /Game/UI/UI_GameClick.Default__UI_GameClick_C.TargetMap(4).TargetMap
+msgctxt ",5EF4141A42F02E723EAAFDB6D60F3A2D"
+msgid "Torso"
+msgstr "Torso"
+
+#. Key:	60A5F2DB4D206233DA7C7AADBD6751AD
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsPanel.UI_SettingsPanel_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/Shared/UI_SettingsPanel.UI_SettingsPanel_C:WidgetTree.TextBlock_1.Text
+msgctxt ",60A5F2DB4D206233DA7C7AADBD6751AD"
+msgid "Input"
+msgstr "Input"
+
+#. Key:	6113C06746A9C42554FD9AA18C3F11B7
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_4.Text
+msgctxt ",6113C06746A9C42554FD9AA18C3F11B7"
+msgid "Shadows"
+msgstr "Shadows"
+
+#. Key:	612C8DAD457C516462CD879C6C495E5D
+#. SourceLocation:	/Game/UI/Lobby/UI_YesNoBox.UI_YesNoBox_C:WidgetTree.TextBlock_107.Text
+#: /Game/UI/Lobby/UI_YesNoBox.UI_YesNoBox_C:WidgetTree.TextBlock_107.Text
+msgctxt ",612C8DAD457C516462CD879C6C495E5D"
+msgid "No"
+msgstr "No"
+
+#. Key:	62395916488E4F73B1ABD4B2FE642987
+#. SourceLocation:	/Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_111.Text
+#: /Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_111.Text
+msgctxt ",62395916488E4F73B1ABD4B2FE642987"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	627063484B4991A53FEEABA6F2A1075A
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList_C_8.ButtonNames(2).ButtonNames
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList_C_8.ButtonNames(2).ButtonNames
+msgctxt ",627063484B4991A53FEEABA6F2A1075A"
+msgid "Fullscreen"
+msgstr "Fullscreen"
+
+#. Key:	629F5EDF4CAF699E559DA7A619C3F7D2
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_8.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_8.Text
+msgctxt ",629F5EDF4CAF699E559DA7A619C3F7D2"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	63D42343436CAEF4A70FD09375D03C70
+#. SourceLocation:	/Game/UI/Lobby/UI_Leaderboards.UI_Leaderboards_C:WidgetTree.TextBlock_169.Text
+#: /Game/UI/Lobby/UI_Leaderboards.UI_Leaderboards_C:WidgetTree.TextBlock_169.Text
+msgctxt ",63D42343436CAEF4A70FD09375D03C70"
+msgid "World"
+msgstr "World"
+
+#. Key:	63D8FC504EE80B8B347043B39667E349
+#. SourceLocation:	/Game/UI/Shared/UI_KeyRemappingWindow.UI_KeyRemappingWindow_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Shared/UI_KeyRemappingWindow.UI_KeyRemappingWindow_C:WidgetTree.TextBlock_0.Text
+msgctxt ",63D8FC504EE80B8B347043B39667E349"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	64F121CF41E512A53E6460A7D8666A65
+#. SourceLocation:	/Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_164.Text
+#: /Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_164.Text
+msgctxt ",64F121CF41E512A53E6460A7D8666A65"
+msgid "Server list             "
+msgstr "Server list             "
+
+#. Key:	6551262445F8A227494A44B62CF1A7E2
+#. SourceLocation:	/Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_1.Text
+msgctxt ",6551262445F8A227494A44B62CF1A7E2"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	67A0E2AC402A376D885044A783DD3D03
+#. SourceLocation:	/Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:WidgetTree.OppTypeArea.Text
+#: /Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:WidgetTree.OppTypeArea.Text
+msgctxt ",67A0E2AC402A376D885044A783DD3D03"
+msgid "Opponent Text"
+msgstr "Opponent Text"
+
+#. Key:	688AA37A403C562704546FA7AFC6D87F
+#. SourceLocation:	/Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_135.Text
+#: /Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_135.Text
+msgctxt ",688AA37A403C562704546FA7AFC6D87F"
+msgid "Invaded"
+msgstr "Invaded"
+
+#. Key:	6A0219BB44CF59FEBD146E8BC6200AEC
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_146.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_146.Text
+msgctxt ",6A0219BB44CF59FEBD146E8BC6200AEC"
+msgid "Sound FX"
+msgstr "Sound FX"
+
+#. Key:	6ADF377F4ADE4273485E3FBC450967DB
+#. SourceLocation:	/Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:WidgetTree.TextBlock_5.Text
+#: /Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:WidgetTree.TextBlock_5.Text
+msgctxt ",6ADF377F4ADE4273485E3FBC450967DB"
+msgid "Grid Selection"
+msgstr "Grid Selection"
+
+#. Key:	6B6812204252AD50AD6E41B3D18DB286
+#. SourceLocation:	/Game/UI/UI_FightSpectator.UI_FightSpectator_C:WidgetTree.Fighter1Text.Text
+#: /Game/UI/UI_FightSpectator.UI_FightSpectator_C:WidgetTree.Fighter1Text.Text
+msgctxt ",6B6812204252AD50AD6E41B3D18DB286"
+msgid "TEST"
+msgstr "TEST"
+
+#. Key:	6BC17B7041039CD0216B2EB66ABD87AB
+#. SourceLocation:	/Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+#: /Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+msgctxt ",6BC17B7041039CD0216B2EB66ABD87AB"
+msgid "Health {x}"
+msgstr "Health {x}"
+
+#. Key:	6C749DDF4DFD84AC819497B2C798CA8A
+#. SourceLocation:	/Game/UI/Shared/UI_KeyRemappingWindow.Default__UI_KeyRemappingWindow_C.InputNamesAndFormattedNamesMap(1 - Value).InputNamesAndFormattedNamesMap_Value
+#: /Game/UI/Shared/UI_KeyRemappingWindow.Default__UI_KeyRemappingWindow_C.InputNamesAndFormattedNamesMap(1 - Value).InputNamesAndFormattedNamesMap_Value
+msgctxt ",6C749DDF4DFD84AC819497B2C798CA8A"
+msgid "Select"
+msgstr "Select"
+
+#. Key:	6EDEECF64E8DD9BF4C76E9BE1009DCD6
+#. SourceLocation:	/Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:GetLevelText [Script Bytecode]
+#: /Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:GetLevelText [Script Bytecode]
+msgctxt ",6EDEECF64E8DD9BF4C76E9BE1009DCD6"
+msgid "Level : {x}"
+msgstr "Level : {x}"
+
+#. Key:	6F12807647A3F6A0F2B7309FFEFEAD48
+#. SourceLocation:	/Game/UI/Shared/UI_Nameplate.UI_Nameplate_C:WidgetTree.TextBlock_142.Text
+#: /Game/UI/Shared/UI_Nameplate.UI_Nameplate_C:WidgetTree.TextBlock_142.Text
+msgctxt ",6F12807647A3F6A0F2B7309FFEFEAD48"
+msgid "Test"
+msgstr "Test"
+
+#. Key:	7009CB87427B76800C2F9FBF229E3560
+#. SourceLocation:	/Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+#: /Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+msgctxt ",7009CB87427B76800C2F9FBF229E3560"
+msgid "Score: {x}"
+msgstr "Score: {x}"
+
+#. Key:	7387A4AE4FD89583972EB6A4002C1BE8
+#. SourceLocation:	/Game/UI/UI_GameClick.Default__UI_GameClick_C.TargetMap(2).TargetMap
+#: /Game/UI/UI_GameClick.Default__UI_GameClick_C.TargetMap(2).TargetMap
+msgctxt ",7387A4AE4FD89583972EB6A4002C1BE8"
+msgid "Right Arm"
+msgstr "Right Arm"
+
+#. Key:	73AA793A46A1E5898B3C278194D31A36
+#. SourceLocation:	/Game/UI/Lobby/UI_ServerPassword.UI_ServerPassword_C:WidgetTree.MainTextBlock.Text
+#: /Game/UI/Lobby/UI_ServerPassword.UI_ServerPassword_C:WidgetTree.MainTextBlock.Text
+msgctxt ",73AA793A46A1E5898B3C278194D31A36"
+msgid "Enter password"
+msgstr "Enter password"
+
+#. Key:	740F56B3491BAE8E37585F886644DC35
+#. SourceLocation:	/Game/UI/TEst.TEst_C:WidgetTree.TextBlock_92.Text
+#: /Game/UI/TEst.TEst_C:WidgetTree.TextBlock_92.Text
+msgctxt ",740F56B3491BAE8E37585F886644DC35"
+msgid "End turn"
+msgstr "End turn"
+
+#. Key:	748F573F47FC62EF69CBA088BEC87B24
+#. SourceLocation:	/Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_3.Text
+msgctxt ",748F573F47FC62EF69CBA088BEC87B24"
+msgid "Fight"
+msgstr "Fight"
+
+#. Key:	7532F8174CE14359AA22A5BC4F2FFBE0
+#. SourceLocation:	/Game/UI/Core/Cards/UI_CardDescription.UI_CardDescription_C:WidgetTree.TextBlock_309.Text
+#: /Game/UI/Core/Cards/UI_CardDescription.UI_CardDescription_C:WidgetTree.TextBlock_309.Text
+msgctxt ",7532F8174CE14359AA22A5BC4F2FFBE0"
+msgid "OK"
+msgstr "OK"
+
+#. Key:	75739D334C7C898A81351E84D92D713B
+#. SourceLocation:	/Game/UI/Core/PopUps/UI_DicePod.UI_DicePod_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Core/PopUps/UI_DicePod.UI_DicePod_C:WidgetTree.TextBlock_0.Text
+msgctxt ",75739D334C7C898A81351E84D92D713B"
+msgid "Roll"
+msgstr "Roll"
+
+#. Key:	765BB55E4F04E84201A4A1A982E2430A
+#. SourceLocation:	/Game/UI/Core/UI_ScoreboardResult.Default__UI_ScoreboardResult_C.PlayerName
+#: /Game/UI/Core/UI_ScoreboardResult.Default__UI_ScoreboardResult_C.PlayerName
+msgctxt ",765BB55E4F04E84201A4A1A982E2430A"
+msgid "None"
+msgstr "None"
+
+#. Key:	76DAC2AE49FA812177951CB3B0A9ADE5
+#. SourceLocation:	/Game/UI/UI_BugReporter.UI_BugReporter_C:WidgetTree.NameTextBox.HintText
+#: /Game/UI/UI_BugReporter.UI_BugReporter_C:WidgetTree.NameTextBox.HintText
+msgctxt ",76DAC2AE49FA812177951CB3B0A9ADE5"
+msgid "Name"
+msgstr "Name"
+
+#. Key:	776AFE874E05C6D0D9B7038BA72087E8
+#. SourceLocation:	/Game/UI/UI_BugReporter.UI_BugReporter_C:WidgetTree.TextBlock_314.Text
+#: /Game/UI/UI_BugReporter.UI_BugReporter_C:WidgetTree.TextBlock_314.Text
+msgctxt ",776AFE874E05C6D0D9B7038BA72087E8"
+msgid "Description"
+msgstr "Description"
+
+#. Key:	7987FB3046F6DD91BCA7EC9E10E42A19
+#. SourceLocation:	/Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",7987FB3046F6DD91BCA7EC9E10E42A19"
+msgid "Settings"
+msgstr "Settings"
+
+#. Key:	79AA257F4C2BC95EADFFF996E420A69C
+#. SourceLocation:	/Game/UI/Lobby/UI_Searching.UI_Searching_C:WidgetTree.CounterText.Text
+#: /Game/UI/Lobby/UI_Searching.UI_Searching_C:WidgetTree.CounterText.Text
+msgctxt ",79AA257F4C2BC95EADFFF996E420A69C"
+msgid "00:01"
+msgstr "00:01"
+
+#. Key:	7B341770469DE0FD111FB294E544410D
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_5.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_5.Text
+msgctxt ",7B341770469DE0FD111FB294E544410D"
+msgid "Textures"
+msgstr "Textures"
+
+#. Key:	7B6C7E664B44A48FB3AFE1A899CFD2FE
+#. SourceLocation:	/Game/UI/Lobby/UI_Host.UI_Host_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Lobby/UI_Host.UI_Host_C:WidgetTree.TextBlock_0.Text
+msgctxt ",7B6C7E664B44A48FB3AFE1A899CFD2FE"
+msgid "GameName"
+msgstr "GameName"
+
+#. Key:	7B91B21E41443A4965155590F7B8D822
+#. SourceLocation:	/Game/UI/Lobby/UI_Loading.UI_Loading_C:WidgetTree.TextBlock_159.Text
+#: /Game/UI/Lobby/UI_Loading.UI_Loading_C:WidgetTree.TextBlock_159.Text
+msgctxt ",7B91B21E41443A4965155590F7B8D822"
+msgid "Creating game"
+msgstr "Creating game"
+
+#. Key:	7CDDA5A54BEBE6D605726E8313B0E8CB
+#. SourceLocation:	/Game/UI/Shared/UI_KeyRemappingWindow.UI_KeyRemappingWindow_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/Shared/UI_KeyRemappingWindow.UI_KeyRemappingWindow_C:WidgetTree.TextBlock_2.Text
+msgctxt ",7CDDA5A54BEBE6D605726E8313B0E8CB"
+msgid "Key Remapping"
+msgstr "Key Remapping"
+
+#. Key:	7E3294F34C1ECA0C52A3C19072F3A721
+#. SourceLocation:	/Game/UI/Lobby/UI_Leaderboards.UI_Leaderboards_C:WidgetTree.TextBlock_7.Text
+#: /Game/UI/Lobby/UI_Leaderboards.UI_Leaderboards_C:WidgetTree.TextBlock_7.Text
+msgctxt ",7E3294F34C1ECA0C52A3C19072F3A721"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	7EFE3EA54AC270FFE469BE8B50D7E8FF
+#. SourceLocation:	/Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:WidgetTree.TextBlock_166.Text
+#: /Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:WidgetTree.TextBlock_166.Text
+msgctxt ",7EFE3EA54AC270FFE469BE8B50D7E8FF"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	814094694525E5CD40EB55AFC5CA8649
+#. SourceLocation:	/Game/UI/UI_FightSpectator.UI_FightSpectator_C:WidgetTree.TextBlock_450.Text
+#: /Game/UI/UI_FightSpectator.UI_FightSpectator_C:WidgetTree.TextBlock_450.Text
+msgctxt ",814094694525E5CD40EB55AFC5CA8649"
+msgid "VS"
+msgstr "VS"
+
+#. Key:	86CCCC284D3087B98750EC82082ECA52
+#. SourceLocation:	/Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_165.Text
+#: /Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_165.Text
+msgctxt ",86CCCC284D3087B98750EC82082ECA52"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	89FCFAA54188EBC81AA40D9611A8B070
+#. SourceLocation:	/Game/UI/Lobby/UI_TwoButtonsDialogBox.UI_TwoButtonsDialogBox_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Lobby/UI_TwoButtonsDialogBox.UI_TwoButtonsDialogBox_C:WidgetTree.TextBlock_0.Text
+msgctxt ",89FCFAA54188EBC81AA40D9611A8B070"
+msgid "Yes"
+msgstr "Yes"
+
+#. Key:	8B7BE8D848ADD1205AC5F88728A5889F
+#. SourceLocation:	/Game/UI/Shared/EInvetoryType.EInvetoryType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/UI/Shared/EInvetoryType.EInvetoryType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",8B7BE8D848ADD1205AC5F88728A5889F"
+msgid "Weapon"
+msgstr "Weapon"
+
+#. Key:	8D5CBE9444857BB1F2B921ADF03B31FA
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsPanel.UI_SettingsPanel_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/Shared/UI_SettingsPanel.UI_SettingsPanel_C:WidgetTree.TextBlock_3.Text
+msgctxt ",8D5CBE9444857BB1F2B921ADF03B31FA"
+msgid "Report a bug"
+msgstr "Report a bug"
+
+#. Key:	8EB585A34B9F2057DCE83DBBDB620D61
+#. SourceLocation:	/Game/UI/Core/UI_Winner.UI_Winner_C:WidgetTree.TextBlock_127.Text
+#: /Game/UI/Core/UI_Winner.UI_Winner_C:WidgetTree.TextBlock_127.Text
+msgctxt ",8EB585A34B9F2057DCE83DBBDB620D61"
+msgid "YOU HAVE WON"
+msgstr "YOU HAVE WON"
+
+#. Key:	8FDE8A4E427FF47E0AA9DBBF7A522F71
+#. SourceLocation:	/Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_71.Text
+#: /Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_71.Text
+msgctxt ",8FDE8A4E427FF47E0AA9DBBF7A522F71"
+msgid "Color 2"
+msgstr "Color 2"
+
+#. Key:	9003ABFD48FC697275387BA779381ADE
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_1.Text
+msgctxt ",9003ABFD48FC697275387BA779381ADE"
+msgid "Controls"
+msgstr "Controls"
+
+#. Key:	950E07FA4FB1BB338FCA61B5DD043951
+#. SourceLocation:	/Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",950E07FA4FB1BB338FCA61B5DD043951"
+msgid "Multiplayer"
+msgstr "Multiplayer"
+
+#. Key:	96076F2A4B6BCF26BE1076ACC46453C9
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_163.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_163.Text
+msgctxt ",96076F2A4B6BCF26BE1076ACC46453C9"
+msgid "User Interface Scale"
+msgstr "User Interface Scale"
+
+#. Key:	99183B6E44A6D4CD85FDBC815935E266
+#. SourceLocation:	/Game/UI/UI_BugReporter.UI_BugReporter_C:WidgetTree.Text.Text
+#: /Game/UI/UI_BugReporter.UI_BugReporter_C:WidgetTree.Text.Text
+msgctxt ",99183B6E44A6D4CD85FDBC815935E266"
+msgid "Send"
+msgstr "Send"
+
+#. Key:	993A40FE469C5AF48B5596A2B3A45CF7
+#. SourceLocation:	/Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_152.Text
+#: /Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_152.Text
+msgctxt ",993A40FE469C5AF48B5596A2B3A45CF7"
+msgid "Colors"
+msgstr "Colors"
+
+#. Key:	9A735BC44F7614E68DE6E88D5DB5BC21
+#. SourceLocation:	/Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.TextBlock_231.ToolTipText
+#: /Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.TextBlock_231.ToolTipText
+msgctxt ",9A735BC44F7614E68DE6E88D5DB5BC21"
+msgid "15"
+msgstr "15"
+
+#. Key:	9B567DB64DB6254BD53817B8FE1CE9EE
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_166.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_166.Text
+msgctxt ",9B567DB64DB6254BD53817B8FE1CE9EE"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	9CF6FDA04E7E7CA2AB82A1B24B795C17
+#. SourceLocation:	/Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_70.Text
+#: /Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_70.Text
+msgctxt ",9CF6FDA04E7E7CA2AB82A1B24B795C17"
+msgid "Color 1"
+msgstr "Color 1"
+
+#. Key:	A00AE8884F04B4D626520E8329BF25C2
+#. SourceLocation:	/Game/UI/Lobby/UI_Host.UI_Host_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/Lobby/UI_Host.UI_Host_C:WidgetTree.TextBlock_2.Text
+msgctxt ",A00AE8884F04B4D626520E8329BF25C2"
+msgid "LAN"
+msgstr "LAN"
+
+#. Key:	A08C3F4045712F644B3346B641268B72
+#. SourceLocation:	/Game/UI/UI_GameClick.Default__UI_GameClick_C.TargetMap(3).TargetMap
+#: /Game/UI/UI_GameClick.Default__UI_GameClick_C.TargetMap(3).TargetMap
+msgctxt ",A08C3F4045712F644B3346B641268B72"
+msgid "Left Arm"
+msgstr "Left Arm"
+
+#. Key:	A163151A4FD7A146B3C0059909758634
+#. SourceLocation:	/Game/UI/Lobby/UI_Lobby.UI_Lobby_C:ExecuteUbergraph_UI_Lobby [Script Bytecode]
+#: /Game/UI/Lobby/UI_Lobby.UI_Lobby_C:ExecuteUbergraph_UI_Lobby [Script Bytecode]
+msgctxt ",A163151A4FD7A146B3C0059909758634"
+msgid "{x}/{y}"
+msgstr "{x}/{y}"
+
+#. Key:	A23BEF4140C43F17D857029AE43613E6
+#. SourceLocation:	/Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:WidgetTree.PlayerText.Text
+#: /Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:WidgetTree.PlayerText.Text
+msgctxt ",A23BEF4140C43F17D857029AE43613E6"
+msgid "Player's Text"
+msgstr "Player's Text"
+
+#. Key:	A346A8204F242367BB65109EDA692F76
+#. SourceLocation:	/Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/Lobby/UI_Customization.UI_Customization_C:WidgetTree.TextBlock_1.Text
+msgctxt ",A346A8204F242367BB65109EDA692F76"
+msgid "Flag Emblem"
+msgstr "Flag Emblem"
+
+#. Key:	A4A83BB94F7000ECD38EBDA2D8EC4F4B
+#. SourceLocation:	/Game/UI/Shared/EInvetoryType.EInvetoryType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/UI/Shared/EInvetoryType.EInvetoryType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",A4A83BB94F7000ECD38EBDA2D8EC4F4B"
+msgid "Mesh"
+msgstr "Mesh"
+
+#. Key:	A4DC5285457C3C076F971B868F37A973
+#. SourceLocation:	/Game/UI/Lobby/UI_SteamInvite.UI_SteamInvite_C:WidgetTree.TextBlock_105.Text
+#: /Game/UI/Lobby/UI_SteamInvite.UI_SteamInvite_C:WidgetTree.TextBlock_105.Text
+msgctxt ",A4DC5285457C3C076F971B868F37A973"
+msgid "Accept"
+msgstr "Accept"
+
+#. Key:	A5971FC34CC7B70D46E1ECB8895B129E
+#. SourceLocation:	/Game/UI/Shared/UI_KeyRemappingWindow.Default__UI_KeyRemappingWindow_C.InputNamesAndFormattedNamesMap(0 - Value).InputNamesAndFormattedNamesMap_Value
+#: /Game/UI/Shared/UI_KeyRemappingWindow.Default__UI_KeyRemappingWindow_C.InputNamesAndFormattedNamesMap(0 - Value).InputNamesAndFormattedNamesMap_Value
+msgctxt ",A5971FC34CC7B70D46E1ECB8895B129E"
+msgid "Open Chat"
+msgstr "Open Chat"
+
+#. Key:	A5D9BA924B2CEC159A6EC0B7B4159415
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_6.Text
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.TextBlock_6.Text
+msgctxt ",A5D9BA924B2CEC159A6EC0B7B4159415"
+msgid "Effects"
+msgstr "Effects"
+
+#. Key:	A5F4813E407411BA68269CA047ED892A
+#. SourceLocation:	/Game/UI/Chat/UI_ChatMessage.UI_ChatMessage_C:ExecuteUbergraph_UI_ChatMessage [Script Bytecode]
+#: /Game/UI/Chat/UI_ChatMessage.UI_ChatMessage_C:ExecuteUbergraph_UI_ChatMessage [Script Bytecode]
+msgctxt ",A5F4813E407411BA68269CA047ED892A"
+msgid "{x}:"
+msgstr "{x}:"
+
+#. Key:	A661BD104E80040954E50993A01BCEDE
+#. SourceLocation:	/Game/UI/Core/UI_Fight.UI_Fight_C:ExecuteUbergraph_UI_Fight [Script Bytecode]
+#: /Game/UI/Core/UI_Fight.UI_Fight_C:ExecuteUbergraph_UI_Fight [Script Bytecode]
+msgctxt ",A661BD104E80040954E50993A01BCEDE"
+msgid "Draw"
+msgstr "Draw"
+
+#. Key:	A6F73BD8453AB8E3926EA88B01A2314D
+#. SourceLocation:	/Game/UI/UI_FightSpectator.UI_FightSpectator_C:WidgetTree.Fighter2Text.Text
+#: /Game/UI/UI_FightSpectator.UI_FightSpectator_C:WidgetTree.Fighter2Text.Text
+msgctxt ",A6F73BD8453AB8E3926EA88B01A2314D"
+msgid "TEST"
+msgstr "TEST"
+
+#. Key:	A807CEAB4831836F1726449DD0BCB115
+#. SourceLocation:	/Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_252.Text
+#: /Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_252.Text
+msgctxt ",A807CEAB4831836F1726449DD0BCB115"
+msgid "Number of players"
+msgstr "Number of players"
+
+#. Key:	A835344C4DA673214A53788D66176DFB
+#. SourceLocation:	/Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+#: /Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+msgctxt ",A835344C4DA673214A53788D66176DFB"
+msgid "Draw"
+msgstr "Draw"
+
+#. Key:	A8817CBF4E72D5CC7ADAAEB06C9C3036
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_523.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_523.Text
+msgctxt ",A8817CBF4E72D5CC7ADAAEB06C9C3036"
+msgid "Video"
+msgstr "Video"
+
+#. Key:	A9DFE3C146D56F790FE8AD892CCD6002
+#. SourceLocation:	/Game/UI/UI_Typewriter.UI_Typewriter_C:WidgetTree.TextBlock_98.Text
+#: /Game/UI/UI_Typewriter.UI_Typewriter_C:WidgetTree.TextBlock_98.Text
+msgctxt ",A9DFE3C146D56F790FE8AD892CCD6002"
+msgid "Blank Text"
+msgstr "Blank Text"
+
+#. Key:	AE3221D9439A725F84558E8B2C36625C
+#. SourceLocation:	/Game/UI/Credits.Credits_C:WidgetTree.Text2.Text
+#: /Game/UI/Credits.Credits_C:WidgetTree.Text2.Text
+msgctxt ",AE3221D9439A725F84558E8B2C36625C"
+msgid "Blank Text"
+msgstr "Blank Text"
+
+#. Key:	AE49B7DA4C04241B6B34698844CB1B5C
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsPanel.UI_SettingsPanel_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/Shared/UI_SettingsPanel.UI_SettingsPanel_C:WidgetTree.TextBlock_4.Text
+msgctxt ",AE49B7DA4C04241B6B34698844CB1B5C"
+msgid "Audio"
+msgstr "Audio"
+
+#. Key:	AE6F9F73477F87ECBF02879E04F4AB67
+#. SourceLocation:	/Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+#: /Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:ExecuteUbergraph_UI_TypeBattle [Script Bytecode]
+msgctxt ",AE6F9F73477F87ECBF02879E04F4AB67"
+msgid "Score: {x}"
+msgstr "Score: {x}"
+
+#. Key:	AFC66FB047301DCAF929BDA87672FD31
+#. SourceLocation:	/Game/UI/Core/UI_Game.UI_Game_C:ExecuteUbergraph_UI_Game [Script Bytecode]
+#: /Game/UI/Core/UI_Game.UI_Game_C:ExecuteUbergraph_UI_Game [Script Bytecode]
+msgctxt ",AFC66FB047301DCAF929BDA87672FD31"
+msgid "Player : {x}"
+msgstr "Player : {x}"
+
+#. Key:	B03296DD4F3E7E72057B64AC94232D6B
+#. SourceLocation:	/Game/UI/Lobby/UI_Multiplayer.UI_Multiplayer_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/Lobby/UI_Multiplayer.UI_Multiplayer_C:WidgetTree.TextBlock_1.Text
+msgctxt ",B03296DD4F3E7E72057B64AC94232D6B"
+msgid "Join"
+msgstr "Join"
+
+#. Key:	B03D8E904571C76004CD2480970902F3
+#. SourceLocation:	/Game/UI/Lobby/UI_Leaderboards.UI_Leaderboards_C:WidgetTree.TextBlock_170.Text
+#: /Game/UI/Lobby/UI_Leaderboards.UI_Leaderboards_C:WidgetTree.TextBlock_170.Text
+msgctxt ",B03D8E904571C76004CD2480970902F3"
+msgid "Friends"
+msgstr "Friends"
+
+#. Key:	B06E197044AA579DFC3B8AB8C541A1F9
+#. SourceLocation:	/Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_0.Text
+msgctxt ",B06E197044AA579DFC3B8AB8C541A1F9"
+msgid "Singleplayer"
+msgstr "Singleplayer"
+
+#. Key:	B0FA743544E25558AD4368B2E5C3C866
+#. SourceLocation:	/Game/UI/Lobby/UI_PlayerList.UI_PlayerList_C:WidgetTree.TextBlock_149.Text
+#: /Game/UI/Lobby/UI_PlayerList.UI_PlayerList_C:WidgetTree.TextBlock_149.Text
+msgctxt ",B0FA743544E25558AD4368B2E5C3C866"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	B110D5D049449E5429F2E5AA3741C541
+#. SourceLocation:	/Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:WidgetTree.SequenceText.Text
+#: /Game/UI/Core/PopUps/UI_TypeBattle.UI_TypeBattle_C:WidgetTree.SequenceText.Text
+msgctxt ",B110D5D049449E5429F2E5AA3741C541"
+msgid "Word To Type"
+msgstr "Word To Type"
+
+#. Key:	B17B7F444E416A1F4DD23DBCC92FA1BD
+#. SourceLocation:	/Game/UI/TEst.TEst_C:ExecuteUbergraph_TEst [Script Bytecode]
+#: /Game/UI/TEst.TEst_C:ExecuteUbergraph_TEst [Script Bytecode]
+msgctxt ",B17B7F444E416A1F4DD23DBCC92FA1BD"
+msgid "Turns: {x}"
+msgstr "Turns: {x}"
+
+#. Key:	B261841B4289C7C258E4599EDD38ED98
+#. SourceLocation:	/Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.TextBlock_8.Text
+#: /Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.TextBlock_8.Text
+msgctxt ",B261841B4289C7C258E4599EDD38ED98"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	B3820169453C16B86E056A9CB75A37A0
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList.ButtonNames(1).ButtonNames
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList.ButtonNames(1).ButtonNames
+msgctxt ",B3820169453C16B86E056A9CB75A37A0"
+msgid "Medium"
+msgstr "Medium"
+
+#. Key:	B7440E1A4B3193E94699288A48AAB7EF
+#. SourceLocation:	/Game/UI/Core/UI_Game.UI_Game_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/Core/UI_Game.UI_Game_C:WidgetTree.TextBlock_1.Text
+msgctxt ",B7440E1A4B3193E94699288A48AAB7EF"
+msgid "Cards Selector"
+msgstr "Cards Selector"
+
+#. Key:	B840440E4DE313CAEF175889AF00F404
+#. SourceLocation:	/Game/UI/Core/UI_Fight.UI_Fight_C:ExecuteUbergraph_UI_Fight [Script Bytecode]
+#: /Game/UI/Core/UI_Fight.UI_Fight_C:ExecuteUbergraph_UI_Fight [Script Bytecode]
+msgctxt ",B840440E4DE313CAEF175889AF00F404"
+msgid "Player Lost"
+msgstr "Player Lost"
+
+#. Key:	BC7E9FB54EE0B3656CF8FC9D529630A6
+#. SourceLocation:	/Game/UI/Lobby/UI_Searching.UI_Searching_C:ExecuteUbergraph_UI_Searching [Script Bytecode]
+#: /Game/UI/Lobby/UI_Searching.UI_Searching_C:ExecuteUbergraph_UI_Searching [Script Bytecode]
+msgctxt ",BC7E9FB54EE0B3656CF8FC9D529630A6"
+msgid "{x}:{y}"
+msgstr "{x}:{y}"
+
+#. Key:	BCF3F6BD4D73198314DB9EB9DE5BB267
+#. SourceLocation:	/Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.StartText.Text
+#: /Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.StartText.Text
+msgctxt ",BCF3F6BD4D73198314DB9EB9DE5BB267"
+msgid "Start"
+msgstr "Start"
+
+#. Key:	BD8BA9BD4FC93F6C06A92E9090191670
+#. SourceLocation:	/Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.TextBlock_4.Text
+msgctxt ",BD8BA9BD4FC93F6C06A92E9090191670"
+msgid "All types of fighting"
+msgstr "All types of fighting"
+
+#. Key:	C427FAC74E478272F4878EA189E6A62C
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList.ButtonNames(0).ButtonNames
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList.ButtonNames(0).ButtonNames
+msgctxt ",C427FAC74E478272F4878EA189E6A62C"
+msgid "Low"
+msgstr "Low"
+
+#. Key:	CADF1F0D4B64012833CAF59510528EFC
+#. SourceLocation:	/Game/UI/Lobby/UI_Multiplayer.UI_Multiplayer_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Lobby/UI_Multiplayer.UI_Multiplayer_C:WidgetTree.TextBlock_0.Text
+msgctxt ",CADF1F0D4B64012833CAF59510528EFC"
+msgid "Host"
+msgstr "Host"
+
+#. Key:	CAFA99764A6A7DEE4EBEC7A19194CE78
+#. SourceLocation:	/Game/UI/Lobby/UI_Host.UI_Host_C:WidgetTree.TextBlock_198.Text
+#: /Game/UI/Lobby/UI_Host.UI_Host_C:WidgetTree.TextBlock_198.Text
+msgctxt ",CAFA99764A6A7DEE4EBEC7A19194CE78"
+msgid "Host game"
+msgstr "Host game"
+
+#. Key:	CC6A3345416FF4C81BCEE087FC928978
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList.ButtonNames(2).ButtonNames
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList.ButtonNames(2).ButtonNames
+msgctxt ",CC6A3345416FF4C81BCEE087FC928978"
+msgid "High"
+msgstr "High"
+
+#. Key:	CCDB47E34A22DB519E5BA89D6D48B4CA
+#. SourceLocation:	/Game/UI/Lobby/UI_Leaderboards.UI_Leaderboards_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Lobby/UI_Leaderboards.UI_Leaderboards_C:WidgetTree.TextBlock_0.Text
+msgctxt ",CCDB47E34A22DB519E5BA89D6D48B4CA"
+msgid "Score"
+msgstr "Score"
+
+#. Key:	CDB4862B421365A1F3FB958969A5A028
+#. SourceLocation:	/Game/UI/Lobby/UI_Multiplayer.UI_Multiplayer_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/Lobby/UI_Multiplayer.UI_Multiplayer_C:WidgetTree.TextBlock_2.Text
+msgctxt ",CDB4862B421365A1F3FB958969A5A028"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	CEC7A5054D1A8C1A7B72E7A798A6672A
+#. SourceLocation:	/Game/UI/Lobby/UI_SteamInvite.UI_SteamInvite_C:WidgetTree.TextBlock_107.Text
+#: /Game/UI/Lobby/UI_SteamInvite.UI_SteamInvite_C:WidgetTree.TextBlock_107.Text
+msgctxt ",CEC7A5054D1A8C1A7B72E7A798A6672A"
+msgid "Decline"
+msgstr "Decline"
+
+#. Key:	D318C35A448CBFBF3349F6AC18459493
+#. SourceLocation:	/Game/UI/Core/UI_Game.UI_Game_C:ExecuteUbergraph_UI_Game [Script Bytecode]
+#: /Game/UI/Core/UI_Game.UI_Game_C:ExecuteUbergraph_UI_Game [Script Bytecode]
+msgctxt ",D318C35A448CBFBF3349F6AC18459493"
+msgid "Number of Cards {X}"
+msgstr "Number of Cards {X}"
+
+#. Key:	D3EC504147D57AF89420D9A30D0646FA
+#. SourceLocation:	/Game/UI/UI_GameClick.Default__UI_GameClick_C.TargetMap(0).TargetMap
+#: /Game/UI/UI_GameClick.Default__UI_GameClick_C.TargetMap(0).TargetMap
+msgctxt ",D3EC504147D57AF89420D9A30D0646FA"
+msgid "Left Leg"
+msgstr "Left Leg"
+
+#. Key:	D4EFC1A64A7A8470498942AC3156A50A
+#. SourceLocation:	/Game/UI/Core/UI_Game.UI_Game_C:ExecuteUbergraph_UI_Game [Script Bytecode]
+#: /Game/UI/Core/UI_Game.UI_Game_C:ExecuteUbergraph_UI_Game [Script Bytecode]
+msgctxt ",D4EFC1A64A7A8470498942AC3156A50A"
+msgid "Moves {x}"
+msgstr "Moves {x}"
+
+#. Key:	D52BBA0B463EAF1B5E5317A3A68C60DF
+#. SourceLocation:	/Game/UI/Lobby/UI_Singleplayer.UI_Singleplayer_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Lobby/UI_Singleplayer.UI_Singleplayer_C:WidgetTree.TextBlock_0.Text
+msgctxt ",D52BBA0B463EAF1B5E5317A3A68C60DF"
+msgid "Play"
+msgstr "Play"
+
+#. Key:	D5D608D04F0551A9E4376D841A7FB55E
+#. SourceLocation:	/Game/UI/Shared/UI_KeyRemap.UI_KeyRemap_C:WidgetTree.ThisInputKeySelector.KeySelectionText
+#: /Game/UI/Shared/UI_KeyRemap.UI_KeyRemap_C:WidgetTree.ThisInputKeySelector.KeySelectionText
+msgctxt ",D5D608D04F0551A9E4376D841A7FB55E"
+msgid "Press Any Key"
+msgstr "Press Any Key"
+
+#. Key:	D82440E84644609C6C2C09B39344879D
+#. SourceLocation:	/Game/UI/Lobby/UI_SteamInvite.UI_SteamInvite_C:ExecuteUbergraph_UI_SteamInvite [Script Bytecode]
+#: /Game/UI/Lobby/UI_SteamInvite.UI_SteamInvite_C:ExecuteUbergraph_UI_SteamInvite [Script Bytecode]
+msgctxt ",D82440E84644609C6C2C09B39344879D"
+msgid "Player {x} invited you"
+msgstr "Player {x} invited you"
+
+#. Key:	D88263AC41D6919831E81295B2BAA0F5
+#. SourceLocation:	/Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_5.Text
+#: /Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_5.Text
+msgctxt ",D88263AC41D6919831E81295B2BAA0F5"
+msgid "You can follow us on Twitter here!"
+msgstr "You can follow us on Twitter here!"
+
+#. Key:	DBF212FB4F0393B48B9DC48035315B87
+#. SourceLocation:	/Game/UI/UI_BugReporter.UI_BugReporter_C:WidgetTree.TextBlock_173.Text
+#: /Game/UI/UI_BugReporter.UI_BugReporter_C:WidgetTree.TextBlock_173.Text
+msgctxt ",DBF212FB4F0393B48B9DC48035315B87"
+msgid "Title:"
+msgstr "Title:"
+
+#. Key:	DCDA20494E5ECBB4797790B587C4AFF8
+#. SourceLocation:	/Game/UI/Core/Cards/UI_PlayerDeck.UI_PlayerDeck_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Core/Cards/UI_PlayerDeck.UI_PlayerDeck_C:WidgetTree.TextBlock_0.Text
+msgctxt ",DCDA20494E5ECBB4797790B587C4AFF8"
+msgid "Select"
+msgstr "Select"
+
+#. Key:	DF9A6E8740CA4850BAD0A4BFCCA29705
+#. SourceLocation:	/Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:GetGridTypeName [Script Bytecode]
+#: /Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:GetGridTypeName [Script Bytecode]
+msgctxt ",DF9A6E8740CA4850BAD0A4BFCCA29705"
+msgid "Grid : {x}"
+msgstr "Grid : {x}"
+
+#. Key:	E12EE6F140C5915CAA95E2B75A679FBA
+#. SourceLocation:	/Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:ExecuteUbergraph_UI_LevelSelection [Script Bytecode]
+#: /Game/UI/Lobby/UI_LevelSelection.UI_LevelSelection_C:ExecuteUbergraph_UI_LevelSelection [Script Bytecode]
+msgctxt ",E12EE6F140C5915CAA95E2B75A679FBA"
+msgid "Level Selection"
+msgstr "Level Selection"
+
+#. Key:	E259E149469959818614AA96914B8C3A
+#. SourceLocation:	/Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.TextBlock_146.Text
+#: /Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.TextBlock_146.Text
+msgctxt ",E259E149469959818614AA96914B8C3A"
+msgid "Sound FX"
+msgstr "Sound FX"
+
+#. Key:	E3CA8CF24FCDDB4AC9586D801EA3F15A
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_231.ToolTipText
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_231.ToolTipText
+msgctxt ",E3CA8CF24FCDDB4AC9586D801EA3F15A"
+msgid "15"
+msgstr "15"
+
+#. Key:	E583C0364BA3DD7CB6B4538B1E200A40
+#. SourceLocation:	/Game/UI/UI_NetworkError.UI_NetworkError_C:WidgetTree.TextBlock_126.Text
+#: /Game/UI/UI_NetworkError.UI_NetworkError_C:WidgetTree.TextBlock_126.Text
+msgctxt ",E583C0364BA3DD7CB6B4538B1E200A40"
+msgid "Ok"
+msgstr "Ok"
+
+#. Key:	E5AFD8A84F85FEF5D64816AA5BC9B4E6
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_152.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_152.Text
+msgctxt ",E5AFD8A84F85FEF5D64816AA5BC9B4E6"
+msgid "Player Colors"
+msgstr "Player Colors"
+
+#. Key:	E76AB6CC4C4D5C891722188ECB27A664
+#. SourceLocation:	/Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_337.Text
+#: /Game/UI/Lobby/UI_Join.UI_Join_C:WidgetTree.TextBlock_337.Text
+msgctxt ",E76AB6CC4C4D5C891722188ECB27A664"
+msgid "Searching"
+msgstr "Searching"
+
+#. Key:	E9A5475B4DF6CB01EAC1F3BCE7CA2797
+#. SourceLocation:	/Game/UI/TEst.TEst_C:ExecuteUbergraph_TEst [Script Bytecode]
+#: /Game/UI/TEst.TEst_C:ExecuteUbergraph_TEst [Script Bytecode]
+msgctxt ",E9A5475B4DF6CB01EAC1F3BCE7CA2797"
+msgid "Moves: {x}"
+msgstr "Moves: {x}"
+
+#. Key:	E9E6845149861039F6B7079645334291
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_0.Text
+msgctxt ",E9E6845149861039F6B7079645334291"
+msgid "Apply"
+msgstr "Apply"
+
+#. Key:	EE705FAD402DD1E89ECFF7BD66A0CD8A
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_70.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_70.Text
+msgctxt ",EE705FAD402DD1E89ECFF7BD66A0CD8A"
+msgid "Color 1"
+msgstr "Color 1"
+
+#. Key:	EEBE892D4961D38BB9A1E2AD57137B12
+#. SourceLocation:	/Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.BattleTypeText.Text
+#: /Game/UI/Lobby/UI_Lobby.UI_Lobby_C:WidgetTree.BattleTypeText.Text
+msgctxt ",EEBE892D4961D38BB9A1E2AD57137B12"
+msgid "In-game battle type"
+msgstr "In-game battle type"
+
+#. Key:	EFAF8CAD4B17744CFFEF44A040D8412B
+#. SourceLocation:	/Game/UI/Core/UI_Scoreboard.UI_Scoreboard_C:WidgetTree.TextQuit.Text
+#: /Game/UI/Core/UI_Scoreboard.UI_Scoreboard_C:WidgetTree.TextQuit.Text
+msgctxt ",EFAF8CAD4B17744CFFEF44A040D8412B"
+msgid "Quit"
+msgstr "Quit"
+
+#. Key:	F1A3AD4743572AE501A510A9C8D55E63
+#. SourceLocation:	/Game/UI/Lobby/UI_Server.UI_Server_C:SetVariables [Script Bytecode]
+#: /Game/UI/Lobby/UI_Server.UI_Server_C:SetVariables [Script Bytecode]
+msgctxt ",F1A3AD4743572AE501A510A9C8D55E63"
+msgid "{x}/4"
+msgstr "{x}/4"
+
+#. Key:	F1EED03C45DC68F2F2DC97AC943EC9CC
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_69.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_69.Text
+msgctxt ",F1EED03C45DC68F2F2DC97AC943EC9CC"
+msgid "Settings"
+msgstr "Settings"
+
+#. Key:	F214243F45588399AA0AF2BDB8A8C7A8
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList_C_8.ButtonNames(1).ButtonNames
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList_C_8.ButtonNames(1).ButtonNames
+msgctxt ",F214243F45588399AA0AF2BDB8A8C7A8"
+msgid "Windowed"
+msgstr "Windowed"
+
+#. Key:	F2156B3748DD0C5A2D50F7894807F9F6
+#. SourceLocation:	/Game/UI/UI_Credits.UI_Credits_C:WidgetTree.Text.Text
+#: /Game/UI/UI_Credits.UI_Credits_C:WidgetTree.Text.Text
+msgctxt ",F2156B3748DD0C5A2D50F7894807F9F6"
+msgid "Blank Text"
+msgstr "Blank Text"
+
+#. Key:	F286B74E437878E2435C18B51490E121
+#. SourceLocation:	/Game/UI/UI_BugReporter.UI_BugReporter_C:WidgetTree.DescriptionTextBox.HintText
+#: /Game/UI/UI_BugReporter.UI_BugReporter_C:WidgetTree.DescriptionTextBox.HintText
+msgctxt ",F286B74E437878E2435C18B51490E121"
+msgid "Description"
+msgstr "Description"
+
+#. Key:	F2B1E33041AF10941C0EFA981B179769
+#. SourceLocation:	/Game/UI/UI_GameClick.UI_GameClick_C:ExecuteUbergraph_UI_GameClick [Script Bytecode]
+#: /Game/UI/UI_GameClick.UI_GameClick_C:ExecuteUbergraph_UI_GameClick [Script Bytecode]
+msgctxt ",F2B1E33041AF10941C0EFA981B179769"
+msgid "Player Won"
+msgstr "Player Won"
+
+#. Key:	F4F4838E48238B1A39B867BE8FBBADC5
+#. SourceLocation:	/Game/UI/Lobby/UI_TwoButtonsDialogBox.UI_TwoButtonsDialogBox_C:WidgetTree.TextBlock_309.Text
+#: /Game/UI/Lobby/UI_TwoButtonsDialogBox.UI_TwoButtonsDialogBox_C:WidgetTree.TextBlock_309.Text
+msgctxt ",F4F4838E48238B1A39B867BE8FBBADC5"
+msgid "No"
+msgstr "No"
+
+#. Key:	F5FCE56043F15C86499C68B19578373D
+#. SourceLocation:	/Game/UI/Core/UI_PauseMenu.UI_PauseMenu_C:WidgetTree.Settings.Text
+#: /Game/UI/Core/UI_PauseMenu.UI_PauseMenu_C:WidgetTree.Settings.Text
+msgctxt ",F5FCE56043F15C86499C68B19578373D"
+msgid "Settings"
+msgstr "Settings"
+
+#. Key:	F6B8695341E340694ADB71995A42F557
+#. SourceLocation:	/Game/UI/Core/UI_PauseMenu.UI_PauseMenu_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/Core/UI_PauseMenu.UI_PauseMenu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",F6B8695341E340694ADB71995A42F557"
+msgid "Exit"
+msgstr "Exit"
+
+#. Key:	F7856BAF4DEB8351632E39A0239CEEA6
+#. SourceLocation:	/Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_3.Text
+msgctxt ",F7856BAF4DEB8351632E39A0239CEEA6"
+msgid "Quit"
+msgstr "Quit"
+
+#. Key:	F8CC3610432915ACA6751DB2B4D52711
+#. SourceLocation:	/Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList_C_7.ButtonNames(1).ButtonNames
+#: /Game/UI/Shared/UI_GraphicSettings2.UI_GraphicSettings_C:WidgetTree.UI_RadioButtonList_C_7.ButtonNames(1).ButtonNames
+msgctxt ",F8CC3610432915ACA6751DB2B4D52711"
+msgid "Enabled"
+msgstr "Enabled"
+
+#. Key:	FA899B9B4AA95738B81D9B8EE84A6804
+#. SourceLocation:	/Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.TextBlock_86.Text
+#: /Game/UI/Shared/UI_AudioSettings.UI_AudioSettings_C:WidgetTree.TextBlock_86.Text
+msgctxt ",FA899B9B4AA95738B81D9B8EE84A6804"
+msgid "Music"
+msgstr "Music"
+
+#. Key:	FA93556044D618A2E65735836D2BCF39
+#. SourceLocation:	/Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_7.Text
+#: /Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_7.Text
+msgctxt ",FA93556044D618A2E65735836D2BCF39"
+msgid "Leaderboards"
+msgstr "Leaderboards"
+
+#. Key:	FA946B4B453BAC443EF7388CAD031D08
+#. SourceLocation:	/Game/UI/Shared/UI_KeyRemappingWindow.Default__UI_KeyRemappingWindow_C.InputNamesAndFormattedNamesMap(2 - Value).InputNamesAndFormattedNamesMap_Value
+#: /Game/UI/Shared/UI_KeyRemappingWindow.Default__UI_KeyRemappingWindow_C.InputNamesAndFormattedNamesMap(2 - Value).InputNamesAndFormattedNamesMap_Value
+msgctxt ",FA946B4B453BAC443EF7388CAD031D08"
+msgid "Drop Item"
+msgstr "Drop Item"
+
+#. Key:	FAA63E3149119DB5378CD097ED25BCCC
+#. SourceLocation:	/Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.AlphaText.Text
+#: /Game/UI/Lobby/UI_MainMenu.UI_MainMenu_C:WidgetTree.AlphaText.Text
+msgctxt ",FAA63E3149119DB5378CD097ED25BCCC"
+msgid "Alpha build"
+msgstr "Alpha build"
+
+#. Key:	FBC5F20E47866D1D4F3D21B6003E1E6E
+#. SourceLocation:	/Game/UI/Core/UI_MainHUD.UI_MainHUD_C:ExecuteUbergraph_UI_MainHUD [Script Bytecode]
+#: /Game/UI/Core/UI_MainHUD.UI_MainHUD_C:ExecuteUbergraph_UI_MainHUD [Script Bytecode]
+msgctxt ",FBC5F20E47866D1D4F3D21B6003E1E6E"
+msgid "Turns: {x}"
+msgstr "Turns: {x}"
+
+#. Key:	FCF0517A4936D64FF6E728B024813B68
+#. SourceLocation:	/Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_86.Text
+#: /Game/UI/Shared/UI_SettingsNew.UI_SettingsNew_C:WidgetTree.TextBlock_86.Text
+msgctxt ",FCF0517A4936D64FF6E728B024813B68"
+msgid "Music"
+msgstr "Music"
+
+#. Key:	FEA989564A13EB88A4CFE7A85C1AED44
+#. SourceLocation:	/Game/UI/Core/UI_Fight.UI_Fight_C:WidgetTree.TextBlock_105.Text
+#: /Game/UI/Core/UI_Fight.UI_Fight_C:WidgetTree.TextBlock_105.Text
+msgctxt ",FEA989564A13EB88A4CFE7A85C1AED44"
+msgid "Roll"
+msgstr "Roll"
+
